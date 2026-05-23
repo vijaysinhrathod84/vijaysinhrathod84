@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Vijaysinh Rathod 👋
 
-<!--
-**vijaysinhrathod84/vijaysinhrathod84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack AI Developer focused on building:
 
-Here are some ideas to get you started:
+- SaaS Platforms
+- AI Automation Systems
+- WordPress Products
+- Laravel Applications
+- React-based Frontends
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Laravel • PHP • WordPress • React • JavaScript • Electron • MySQL • REST APIs • AI Integrations
+
+## Currently Building
+- AI-powered SaaS products
+- Automation workflows
+- WordPress plugin solutions
